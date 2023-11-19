@@ -6,3 +6,5 @@ optimus-manager
 picom
 
 kitty
+
+neovim
