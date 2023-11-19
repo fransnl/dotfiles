@@ -2,5 +2,7 @@
 
 ## packages
 optimus-manager
+
 picom
+
 kitty
